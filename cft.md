@@ -175,7 +175,7 @@ The submission webpage is: https://openreview.net/group?id=aclweb.org/NAACL/2022
 ## Chairs
 
 Guy Emerson, University of Cambridge\
-Natalie Schluter, IT University of Copenhagen\
+Natalie Schluter, Apple & IT University of Copenhagen\
 Gabriel Stanovsky, The Hebrew University of Jerusalem\
 Ritesh Kumar, Dr. B.R. Ambedkar University\
 Contact: semevalorganizers@gmail.com
