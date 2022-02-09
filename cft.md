@@ -114,7 +114,7 @@ and possibly shepherd papers that need additional help in improving the writing.
 
 - Sample data ready 15 July 2022
 - Training data ready 1 September 2022
-- Evaluation data ready 1 December 2022
+- Evaluation data ready 1 December 2022 (internal deadline; not for public release)
 - Evaluation start 10 January 2023
 - Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
 - Paper submission due February 2023
