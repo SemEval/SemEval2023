@@ -59,6 +59,11 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [SemEval-2023 call for task proposals (archival)](cft)
 --->
 
+### Sponsorship
+
+SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Interest Group on the Lexicon of the Association for Computational Linguistics.
+
+
 __Contact:__ <semevalorganizers@gmail.com>
 <!--- Most questions not answered by the above resources should be directed to organizers of specific [tasks](tasks.html).
 General questions about SemEval organization should be directed to <semevalorganizers@gmail.com>.--->
