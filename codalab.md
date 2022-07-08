@@ -25,7 +25,7 @@ Note that CodaLab competitions is not the same as CodaLab worksheets. There is n
 ### Tutorials:
  - This tutorial by Tristan Miller is likely to be extremely useful: [Slides](https://www.hse.ru/data/2017/05/31/1171931089/CodaLabCompetitions.pdf), [Video](https://www.youtube.com/watch?v=Ptx93cSBdNY)
  - [Isabelle Guyon's Codalab tutorial](https://www.youtube.com/watch?v=mU1yEEMrMvY)
- - [CodaLab Quickstart Guide](https://github.com/codalab/codalab-worksheets/wiki/Quickstart)
+ - [Adrien Pavao's Codalab tutorial](https://towardsdatascience.com/how-to-create-a-competition-on-codalab-85d69580f9c8)
  - [Running a Competition](https://github.com/codalab/codalab-competitions/wiki/User_Running-a-Competition)
  - [Competition Roadmap](https://github.com/codalab/codalab-competitions/wiki/User_Competition-Roadmap)
 
