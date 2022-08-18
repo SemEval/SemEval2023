@@ -4,13 +4,12 @@ title: SemEval-2023
 
 Welcome to the [SemEval](https://semeval.github.io/)-2023 homepage!
 
-## [SemEval-2023 call for task proposals](cft) 
+## [SemEval-2023 tasks](tasks) 
 
 <!---
-### [SemEval-2022 program](schedule)
+### [SemEval-2023 program](schedule)
 --->
 
-<!---
 ### Important dates for task participants
 
 - Tasks announced (with sample data available): 15 July 2022
@@ -23,7 +22,6 @@ Welcome to the [SemEval](https://semeval.github.io/)-2023 homepage!
 - SemEval workshop Summer 2023 (co-located with a major NLP conference)
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
---->
 
 ### Important dates for task organizers
 
@@ -50,14 +48,12 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Gabriel Stanovsky](https://gabrielstanovsky.github.io/), The Hebrew University of Jerusalem
 - [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University
 
-<!---
 ### Resources
 
 - [Frequently Asked Questions about SemEval](/faq.html)
 - [Paper Submission Requirements](/paper-requirements.html)
 - [Guidelines for Writing Papers](/system-paper-template.html)
 - [SemEval-2023 call for task proposals (archival)](cft)
---->
 
 ### Sponsorship
 
