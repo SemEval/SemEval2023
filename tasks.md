@@ -26,14 +26,14 @@ Websites and contact information for individual tasks are given below.
   [[join task mailing list]](https://groups.google.com/g/semeval2023task3))<br>
   Giovanni Da San Martino, Jakub Piskorski, Nicolas Stefanovitch, Preslav Nakov 
 
-- **[Task 4: ValueEval: Identification of Human Values behind Arguments](valueeval.webis.de)**
+- **[Task 4: ValueEval: Identification of Human Values behind Arguments](https://valueeval.webis.de)**
   ([[contact organizers]](mailto:valueeval-organizers@googlegroups.com),
   [[join task mailing list]](https://groups.google.com/g/valueeval)) <br>
   Johannes Kiesel, Milad Alshomary, Henning Wachsmuth, Benno Stein
 
-- **[Task 5: Clickbait Spoiling](clickbait.webis.de)**
+- **[Task 5: Clickbait Spoiling](https://clickbait.webis.de)**
   ([[contact organizers]](mailto:pan@webis.de),
-  [[join task mailing list]](https://groups.google.com/g/pan-workshop-series))<br>
+  [[join task mailing list]](https://www.tira.io/c/semeval23-task-5-clickbait-spoiling/11))<br>
   Maik Fröbe, Tim Gollub, Matthias Hagen, Martin Potthast
 
 - **[Task 6: LegalEval: Understanding Legal Texts](https://sites.google.com/view/legaleval/home)**
