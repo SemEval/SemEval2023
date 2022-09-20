@@ -14,9 +14,9 @@ Websites and contact information for individual tasks are given below.
   [[join task mailing list]](https://groups.google.com/g/vwsd))<br>
   Alessandro Raganato, Iacer Calixto, Jose Camacho-Collados, Asahi Ushio, Mohammad Taher Pilehvar
 
-- **[Task 2: Multilingual Complex Named Entity Recognition (MultiCoNER 2)]()**
-  ([[contact organizers]](mailto:),
-  [[join task mailing list]](mailto:))<br>
+- **[Task 2: Multilingual Complex Named Entity Recognition (MultiCoNER 2)](http://multiconer.github.io/)**
+  ([[contact organizers]](mailto:multiconer-2@googlegroups.com),
+  [[join task mailing list]](https://groups.google.com/g/multiconer-2))<br>
   Shervin Malmasi, Besnik Fetahu, Sudipta Kar 
 
 ### Discourse and Argumentation
@@ -48,8 +48,8 @@ Websites and contact information for individual tasks are given below.
   [[join task mailing list]](https://groups.google.com/g/nli4ct))<br>
   Mael Jullien, Marco Valentino, Hannah Frost, Paul O'Regan, Donal Landers, Andre Freitas
 
-- **[Task 8: Causal medical claim identification and related PICO frame extraction from social media posts](https://codalab.lisn.upsaclay.fr/competitions/6284)**
-  ([[contact organizers]](mailto:)
+- **[Task 8: Causal medical claim identification and related PICO frame extraction from social media posts](https://causalclaims.github.io/)**
+  ([[contact organizers]](mailto:semeval23.causalclaims@proton.me)
   [[join task mailing list]](https://groups.google.com/g/causal_claims))<br>
   (temporarily anonymous)
 
@@ -60,7 +60,7 @@ Websites and contact information for individual tasks are given below.
   [[join task mailing list]](https://groups.google.com/g/tweet_intimacy_semeval2023))<br>
   Jiaxin Pei, Francesco Barbieri, Vítor Silva, Maarten Bos, Yozen Liu, Leonardo Neves, David Jurgens
 
-- **[Task 10: Towards Explainable Detection of Online Sexism](https://rewire.online/)**
+- **[Task 10: Towards Explainable Detection of Online Sexism](https://codalab.lisn.upsaclay.fr/competitions/7124)**
   ([[contact organizers]](mailto:semeval23-edos-organisers@rewire.online),
   [[join task mailing list]](mailto:semeval23-edos@rewire.online))<br>
   Hannah Rose Kirk, Wenjie Yin, Paul Röttger, Bertie Vidgen
