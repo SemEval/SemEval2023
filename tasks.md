@@ -21,7 +21,7 @@ Websites and contact information for individual tasks are given below.
 
 ### Discourse and Argumentation
 
-- **[Task 3: Detecting the Category, the Framing, and the Persuasion Techniques in Online News in a Multi-lingual Setup]()**
+- **[Task 3: Detecting the Category, the Framing, and the Persuasion Techniques in Online News in a Multi-lingual Setup](https://propaganda.math.unipd.it/semeval2023task3/)**
   ([[contact organizers]](mailto:semeval2023task3organisers@googlegroups.com),
   [[join task mailing list]](https://groups.google.com/g/semeval2023task3))<br>
   Giovanni Da San Martino, Jakub Piskorski, Nicolas Stefanovitch, Preslav Nakov 
