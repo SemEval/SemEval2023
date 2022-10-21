@@ -51,7 +51,7 @@ Websites and contact information for individual tasks are given below.
 - **[Task 8: Causal medical claim identification and related PICO frame extraction from social media posts](https://causalclaims.github.io/)**
   ([[contact organizers]](mailto:semeval23.causalclaims@proton.me)
   [[join task mailing list]](https://groups.google.com/g/causal_claims))<br>
-  (temporarily anonymous)
+  Vivek Khetan, Somin Wadhwa, Silvio Amir, Byron Wallace
 
 ### Social Attitudes
 
