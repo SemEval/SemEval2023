@@ -19,7 +19,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2023 homepage!
 - Paper submission due February 2023
 - Notification to authors March 2023
 - Camera ready due April 2023
-- SemEval workshop Summer 2023 (co-located with a major NLP conference)
+- SemEval workshop Summer 2023 will be co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
