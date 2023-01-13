@@ -36,17 +36,20 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Task paper submission due February 2023
 - Notification to authors March 2023
 - Camera ready due April 2023
-- SemEval workshop Summer 2023 (co-located with a major NLP conference)
+- SemEval workshop Summer 2023 will be co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
 
 ### Organizers
 
-- [Guy Emerson](https://www.languagesciences.cam.ac.uk/directory/guy-emerson), University of Cambridge
-- [Natalie Schluter](https://natschluter.github.io/), Apple & IT University Copenhagen
-- [Gabriel Stanovsky](https://gabrielstanovsky.github.io/), The Hebrew University of Jerusalem
+<!---- [Guy Emerson](https://www.languagesciences.cam.ac.uk/directory/guy-emerson), University of Cambridge-->
+<!--- [Natalie Schluter](https://natschluter.github.io/), Apple & IT University Copenhagen-->
 - [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University
+- [Atul Kr. Ojha](https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/atulkumarojha/), SFI Insight Centre for Data Analytics, DSI, University of Galway
+- [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz), Ghent University
+- [Giovanni Da San Martino](https://scholar.google.fr/citations?user=URABLy0AAAAJ&hl=en), University of Padua
+- [Harish Tayyar Madabushi](https://www.harishtayyarmadabushi.com/), The University of Bath
 
 ### Resources
 
