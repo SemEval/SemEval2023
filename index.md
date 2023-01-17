@@ -16,10 +16,10 @@ Welcome to the [SemEval](https://semeval.github.io/)-2023 homepage!
 - Training data ready 1 September 2022
 - Evaluation start 10 January 2023
 - Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
-- Paper submission due February 2023
-- Notification to authors March 2023
-- Camera ready due April 2023
-- SemEval workshop Summer 2023 will be co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada
+- Paper submission due 28 February 2023
+- Notification to authors 31 March 2023
+- Camera ready due 21 April 2023
+- SemEval workshop: 13-14 July 2023 (co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada)
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
@@ -32,11 +32,11 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Evaluation data ready 1 December 2022 (internal deadline; not for public release)
 - Evaluation start 10 January 2023
 - Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
-- System paper submission due February 2023
-- Task paper submission due February 2023
-- Notification to authors March 2023
-- Camera ready due April 2023
-- SemEval workshop Summer 2023 will be co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada
+- System paper submission due 28 February 2023
+- Task paper submission due 7 March 2023
+- Notification to authors 31 March 2023
+- Camera ready due 21 April 2023
+- SemEval workshop: 13-14 July 2023 (co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada)****
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
