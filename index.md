@@ -33,7 +33,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Evaluation start 10 January 2023
 - Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
 - System paper submission due 28 February 2023
-- Task paper submission due 7 March 2023
+- Task paper submission due <s> 7 March 2023</s> 15 March 2023
 - Notification to authors 31 March 2023
 - Camera ready due 21 April 2023
 - SemEval workshop: 13-14 July 2023 (co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada)****
