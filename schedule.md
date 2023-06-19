@@ -8,7 +8,7 @@ title: SemEval-2023 Schedule
 
 Online poster sessions will be held on Gather. 
 
-In-person oral, poster sessions and invited talk will be held in the  Queens Quay except for Allyson Ettinger's invited talk (joint with *SEM), which will be in Pier 5. Oral sessions and talks will also be streamed on Zoom.
+In-person oral, poster sessions and invited talk will be held in the  Queens Quay except for Junyi Jessy Li's invited talk (joint with *SEM), which will be in Pier 5. Oral sessions and talks will also be streamed on Zoom.
 
 ### Thursday, 13th July
 
