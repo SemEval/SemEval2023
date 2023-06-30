@@ -77,6 +77,7 @@ University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensib
   - NLPeople at SemEval-2023 Task 2: A Staged Approach for Multilingual Named Entity Recognition
   - JUAGE at SemEval 2023 Task 10: Parameter Efficient Classification
   - IXA/Cogcomp at SemEval-2023 Task 2: Context-enriched Multilingual Named Entity Recognition Using Knowledge Bases
+  - NAP at SemEval-2023 Task 3: Is Less Really More? (Back-)Translation as Data Augmentation Strategies for Detecting Persuasion Techniques
   - SafeWebUH at SemEval-2023 Task 11: Learning Annotator Disagreement in Derogatory Text: Comparison of Direct Training vs Aggregation
   - PAI at SemEval-2023 Task 4: A General Multi-label Classification System with Class-balanced Loss Function and Ensemble Module
   - Witcherses at SemEval-2023 Task 12: Ensemble Learning for African Sentiment Analysis
@@ -144,7 +145,6 @@ University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensib
   - AdamR at SemEval-2023 Task 10: Solving the Class Imbalance Problem in Sexism Detection with Ensemble Learning
   - PoliToHFI at SemEval-2023 Task 6: Leveraging Entity-Aware and Hierarchical Transformers for Legal Entity Recognition and Court Judgment Prediction
   - NLP-LTU at SemEval-2023 Task 10: The Impact of Data Augmentation and Semi-Supervised Learning Techniques on Text Classification Performance on an Imbalanced Dataset
-  - NAP at SemEval-2023 Task 3: Is Less Really More? (Back-)Translation as Data Augmentation Strategies for Detecting Persuasion Techniques
   - Rutgers Multimedia Image Processing Lab at SemEval-2023 Task-1: Text-Augmentation-based Approach for Visual Word Sense Disambiguation
   - CL-UZH at SemEval-2023 Task 10: Sexism Detection through Incremental Fine-Tuning and Multi-Task Learning with Label Descriptions
   - Mr-wallace at SemEval-2023 Task 5: Novel Clickbait Spoiling Algorithm Using Natural Language Processing
