@@ -78,6 +78,7 @@ University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensib
   - JUAGE at SemEval 2023 Task 10: Parameter Efficient Classification
   - IXA/Cogcomp at SemEval-2023 Task 2: Context-enriched Multilingual Named Entity Recognition Using Knowledge Bases
   - NAP at SemEval-2023 Task 3: Is Less Really More? (Back-)Translation as Data Augmentation Strategies for Detecting Persuasion Techniques
+  - MilaNLP at SemEval-2023 Task 10: Ensembling Domain-Adapted and Regularized Pretrained Language Models for Robust Sexism Detection
   - SafeWebUH at SemEval-2023 Task 11: Learning Annotator Disagreement in Derogatory Text: Comparison of Direct Training vs Aggregation
   - PAI at SemEval-2023 Task 4: A General Multi-label Classification System with Class-balanced Loss Function and Ensemble Module
   - Witcherses at SemEval-2023 Task 12: Ensemble Learning for African Sentiment Analysis
@@ -159,7 +160,6 @@ University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensib
   - Sebis at SemEval-2023 Task 7: A Joint System for Natural Language Inference and Evidence Retrieval from Clinical Trial Reports
   - SzegedAI at SemEval-2023 Task 1: Applying Quasi-Symbolic Representations in Visual Word Sense Disambiguation
   - UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation
-  - MilaNLP at SemEval-2023 Task 10: Ensembling Domain-Adapted and Regularized Pretrained Language Models for Robust Sexism Detection
   - TeamEC at SemEval-2023 Task 4: Transformers vs. Low-Resource Dictionaries, Expert Dictionary vs. Learned Dictionary
   - azaad@BND at SemEval-2023 Task 2: How to Go from a Simple Transformer Model to a Better Model to Get Better Results in Natural Language Processing
 </details>
