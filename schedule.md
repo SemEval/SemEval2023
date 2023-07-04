@@ -20,14 +20,14 @@ In-person oral, poster sessions and invited talk will be held in the  Queens Qua
 
 <details><summary><strong>11:00-12:30 Oral Session I: Tasks 1-5</strong></summary>
 
-  - SemEval-2023 Task 1: Visual Word Sense Disambiguation
-  - SemEval-2023 Task 2: Fine-grained Multilingual Named Entity Recognition (MultiCoNER 2)
-  - DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition
-  - SemEval-2023 Task 3: Detecting the Category, the Framing, and the Persuasion Techniques in Online News in a Multi-lingual Setup
-  - SheffieldVeraAI at SemEval-2023 Task 3: Mono and Multilingual Approaches for News Genre, Topic and Persuasion Technique Classification
-  - SemEval-2023 Task 4: ValueEval: Identification of Human Values behind Arguments
-  - Adam-Smith at SemEval-2023 Task 4: Discovering Human Values in Arguments with Ensembles of Transformer-based Models
-  - SemEval-2023 Task 5: Clickbait Spoiling
+  - 11:00-11:12	SemEval-2023 Task 1: Visual Word Sense Disambiguation
+  - 11:12-11:24	SemEval-2023 Task 2: Fine-grained Multilingual Named Entity Recognition (MultiCoNER 2)
+  - 11:24-11:34	DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition
+  - 11:34-11:46	SemEval-2023 Task 3: Detecting the Category, the Framing, and the Persuasion Techniques in Online News in a Multi-lingual Setup
+  - 11:46-11:56	SheffieldVeraAI at SemEval-2023 Task 3: Mono and Multilingual Approaches for News Genre, Topic and Persuasion Technique Classification
+  - 11:56-12:08	SemEval-2023 Task 4: ValueEval: Identification of Human Values behind Arguments
+  - 12:08-12:18	Adam-Smith at SemEval-2023 Task 4: Discovering Human Values in Arguments with Ensembles of Transformer-based Models
+  - 12:18-12:30	SemEval-2023 Task 5: Clickbait Spoiling
 </details>
 
 <em>12:30-14:00 Lunch break</em>
@@ -35,24 +35,24 @@ In-person oral, poster sessions and invited talk will be held in the  Queens Qua
 
 <details><summary><strong>14:00-15:00 Oral Session II: Tasks 5-10</strong></summary>
 
-  - TohokuNLP at SemEval-2023 Task 5: Clickbait Spoiling via Simple Seq2Seq Generation and Ensembling
-  - SemEval 2023 Task 6: LegalEval - Understanding Legal Texts
-  - SemEval-2023 Task 7: Multi-Evidence Natural Language Inference for Clinical Trial Data
-  - Saama AI Research at SemEval-2023 Task 7: Exploring the Capabilities of Flan-T5 for Multi-evidence Natural Language Inference in Clinical Trial Data
-  - SemEval 2023 Task 8: Causal Medical Claim Identification and Related PIO Frame Extraction from Social Media Posts
+  - 14:00-14:10	TohokuNLP at SemEval-2023 Task 5: Clickbait Spoiling via Simple Seq2Seq Generation and Ensembling
+  - 14:10-14:22	SemEval 2023 Task 6: LegalEval - Understanding Legal Texts
+  - 14:22-14:34	SemEval-2023 Task 7: Multi-Evidence Natural Language Inference for Clinical Trial Data
+  - 14:34-14:44	Saama AI Research at SemEval-2023 Task 7: Exploring the Capabilities of Flan-T5 for Multi-evidence Natural Language Inference in Clinical Trial Data
+  - 14:44-14:56	SemEval 2023 Task 8: Causal Medical Claim Identification and Related PIO Frame Extraction from Social Media Posts
 </details>
 
 <em>15:00-15:30 Coffee break</em>
 
 <details><summary><strong>15:30-17:15 Oral Session III: Tasks 9-12</strong></summary>
 
-  - SemEval 2023 Task 9: Multilingual Tweet Intimacy Analysis
-  - SemEval-2023 Task 10: Explainable Detection of Online Sexism
-DH-FBK at SemEval-2023 Task 10: Multi-Task Learning with Classifier Ensemble Agreement for Sexism Detection
-  - SemEval-2023 Task 11: Learning with Disagreements (Le-Wi-Di)
-University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensibilities through DisAggregation
-  - SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)
-  - NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis
+  - 15:30-15:42	SemEval 2023 Task 9: Multilingual Tweet Intimacy Analysis
+  - 15:42-15:54	SemEval-2023 Task 10: Explainable Detection of Online Sexism
+  - 15:54-16:04	DH-FBK at SemEval-2023 Task 10: Multi-Task Learning with Classifier Ensemble Agreement for Sexism Detection
+  - 16:04-16:16	SemEval-2023 Task 11: Learning with Disagreements (Le-Wi-Di)
+  - 16:16-16:26	University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensibilities through DisAggregation
+  - 16:26-16:38	SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)
+  - 16:38-16:48	NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis
 </details>
 
 <details><summary><strong>16:45-18:00 Poster Session I: System Description Papers (Queens Quay and Online: Gather)</strong></summary>
