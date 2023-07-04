@@ -142,7 +142,6 @@ In-person oral, poster sessions and invited talk will be held in the  Queens Qua
 
 <details><summary><strong>14:00-15:00 Poster Session III: System Description Papers (Queens Quay)</strong></summary>
 
-  - Team ACCEPT at SemEval-2023 Task 3: An Ensemble-based Approach to Multilingual Framing Detection
   - AdamR at SemEval-2023 Task 10: Solving the Class Imbalance Problem in Sexism Detection with Ensemble Learning
   - PoliToHFI at SemEval-2023 Task 6: Leveraging Entity-Aware and Hierarchical Transformers for Legal Entity Recognition and Court Judgment Prediction
   - NLP-LTU at SemEval-2023 Task 10: The Impact of Data Augmentation and Semi-Supervised Learning Techniques on Text Classification Performance on an Imbalanced Dataset
