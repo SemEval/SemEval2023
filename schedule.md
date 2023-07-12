@@ -12,9 +12,9 @@ In-person oral, poster sessions and invited talk will be held in the  Queens Qua
 
 ### Thursday, 13th July
 
-<strong>09:10-09:25 Welcome and Introduction to SemEval</strong>: by Workshop Chairs
+<strong>09:00-09:15 Welcome and Introduction to SemEval</strong>: by Workshop Chairs
 
-<strong>09:30-10:30 Invited Talk 1, [Junyi Jessy Li](https://jessyli.com/): Modeling Discourse as Questions and Answers [Shared with [*SEM](https://sites.google.com/view/starsem2023/speakers)] </strong>
+<strong>09:20-10:30 Invited Talk 1, [Junyi Jessy Li](https://jessyli.com/): Modeling Discourse as Questions and Answers [Shared with [*SEM](https://sites.google.com/view/starsem2023/speakers)] </strong>
 
 <em>10:30-11:00 Coffee break</em>
 
