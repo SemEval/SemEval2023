@@ -7,7 +7,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2023 homepage!
 ### [SemEval-2023 tasks](tasks) 
 ### [SemEval-2023 schedule](schedule)
 ### [SemEval-2023 proceedings](https://aclanthology.org/volumes/2023.semeval-1/)
-### [SemEval-2023 best paper awards](https://semeval.github.io/SemEval2023/awards)
+### [SemEval-2023 best paper awards](awards)
 
 ### Important dates for task participants
 
