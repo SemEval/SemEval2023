@@ -46,13 +46,13 @@ In-person oral, poster sessions and invited talk will be held in the  Queens Qua
 
 <details><summary><strong>15:30-17:15 Oral Session III: Tasks 9-12</strong></summary>
 
-  - 15:30-15:42	SemEval 2023 Task 9: Multilingual Tweet Intimacy Analysis
-  - 15:42-15:54	SemEval-2023 Task 10: Explainable Detection of Online Sexism
-  - 15:54-16:04	DH-FBK at SemEval-2023 Task 10: Multi-Task Learning with Classifier Ensemble Agreement for Sexism Detection
-  - 16:04-16:16	SemEval-2023 Task 11: Learning with Disagreements (Le-Wi-Di)
-  - 16:16-16:26	University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensibilities through DisAggregation
-  - 16:26-16:38	SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)
-  - 16:38-16:48	NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis
+  - 15:30-15:42	SemEval-2023 Task 10: Explainable Detection of Online Sexism
+  - 15:42-15:54	DH-FBK at SemEval-2023 Task 10: Multi-Task Learning with Classifier Ensemble Agreement for Sexism Detection
+  - 15:54-16:04	SemEval-2023 Task 11: Learning with Disagreements (Le-Wi-Di)
+  - 16:04-16:16	University at Buffalo at SemEval-2023 Task 11: MASDA--Modelling Annotator Sensibilities through DisAggregation
+  - 16:16-16:26	SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)
+  - 16:26-16:38	NLNDE at SemEval-2023 Task 12: Adaptive Pretraining and Source Language Selection for Low-Resource Multilingual Sentiment Analysis
+  - 16:38-16:48	SemEval 2023 Task 9: Multilingual Tweet Intimacy Analysis
 </details>
 
 <details><summary><strong>16:45-18:00 Poster Session I: System Description Papers (Queens Quay and Online: Gather)</strong></summary>
