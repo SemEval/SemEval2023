@@ -105,7 +105,7 @@ In-person oral, poster sessions and invited talk will be held in the  Queens Qua
 
 ### Friday, 14th July
 
-<strong>09:00-10:00 Invited Talk 2, [Siva Reddy](https://sivareddy.in/): Holistic Evaluation of Language Models for Information Seeking</strong>
+<strong>09:15-10:15 Invited Talk 2, [Siva Reddy](https://sivareddy.in/): Holistic Evaluation of Language Models for Information Seeking</strong>
 
 <em>10:30-11:00 Coffee break</em>
 
