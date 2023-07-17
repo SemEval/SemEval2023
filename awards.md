@@ -31,7 +31,7 @@ It need not be the highest-scoring system in the task,
 but it must have a strong analysis component in the evaluation,
 as well as a clear and reproducible description of the problem, algorithms, and methodology.
 
-### [Best System Paper: DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition](https://aclanthology.org/2023.semeval-1.277/)<br>_Zeqi Tan, Shen Huang, Zixia Jia, Jiong Cai, Yinghui Li, Weiming Lu, Yueting Zhuang, Kewei Tu, Pengjun Xie, Fei Huang_
+### [Best System Paper: DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition](https://aclanthology.org/2023.semeval-1.277/)<br>_Zeqi Tan, Shen Huang, Zixia Jia, Jiong Cai, Yinghui Li, Weiming Lu, Yueting Zhuang, Kewei Tu, Pengjun Xie, Fei Huang, Yong Jiang_
 
 #### [Honorable Mention: DH-FBK at SemEval-2023 Task 10: Multi-Task Learning with Classifier Ensemble Agreement for Sexism Detection](https://aclanthology.org/2023.semeval-1.261/)<br>_Elisa Leonardelli, Camilla Casula_
 
